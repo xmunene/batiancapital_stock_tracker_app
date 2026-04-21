@@ -68,6 +68,7 @@ const UserDropdown = () => {
           Sign Out
         </DropdownMenuItem>
       </DropdownMenuContent>
+      <DropdownMenuGroup />
     </DropdownMenu>
   );
 };
